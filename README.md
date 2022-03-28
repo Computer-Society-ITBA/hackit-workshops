@@ -33,7 +33,7 @@ Este compilado de repositorios contiene links y recursos útiles a la hora de co
 ## Cómo aplicar Zero Knowledge proofs
 
 <ol>
-  <li> [Repo](https://github.com/NicolasCastroGarcia/mercadopago-workshop)</li>
+  <li> [Repo](https://github.com/extrimian/zkp-bbs-example)</li>
   <li> [Presentación](https://docs.google.com/presentation/d/10I_NwrND6BuYxptn2pMnjj72_4Gp3Ke0FRrk0FB25Us/edit?usp=sharing)</li>
   <li> [Taller](https://youtu.be/RkNWHlgoCt0)</li>
 </ol>
