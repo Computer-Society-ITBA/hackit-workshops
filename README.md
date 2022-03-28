@@ -18,8 +18,7 @@ Este compilado de repositorios contiene links y recursos útiles a la hora de co
 ## Bases de Rust
 
 <ol>
-  <li> [Repo](https://replit.com/@a0viedo/Taller-Introduccion-Node?v=1)</li>
-  <li> [Presentación](https://docs.google.com/presentation/d/10I_NwrND6BuYxptn2pMnjj72_4Gp3Ke0FRrk0FB25Us/edit?usp=sharing)</li>
+ <li> [Presentación](https://docs.google.com/presentation/d/1oZ0FHVwgmjZVGOlyAeIixUmrEGWDrtlLFgio9j8utto/edit#slide=id.g11a58a638cc_0_543)</li>
   <li> [Taller](https://youtu.be/2YWAIQQ8AA4)</li>
 </ol>
 
