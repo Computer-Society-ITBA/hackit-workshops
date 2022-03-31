@@ -47,3 +47,9 @@ Este compilado de repositorios contiene links y recursos útiles a la hora de co
 <ol>
    <li> [Taller] (https://www.youtube.com/watch?v=5rMoLISSVac)</li>
 </ol>
+## Cómo conectar tu frontend a Smart Contracts
+<ol>
+  <li> [Presentacion] ( https://cloudflare-ipfs.com/ipfs/bafybeiezvydn6c6ib7lj5upjs7ukx6ei4czqaxthpv6wecelbl5tmo27ky) </li>
+  <li> [Repo] (https://cloudflare-ipfs.com/ipfs/bafybeiezvydn6c6ib7lj5upjs7ukx6ei4czqaxthpv6wecelbl5tmo27ky) </li>
+    
+</ol>
