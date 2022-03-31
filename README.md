@@ -22,11 +22,10 @@ Este compilado de repositorios contiene links y recursos útiles a la hora de co
   <li> [Taller](https://youtu.be/2YWAIQQ8AA4)</li>
 </ol>
 
-## Cómo hacer una App para Ios y Android
+## Cómo hacer una App para IOS y Android con Flutter
 
 <ol>
-  <li> [Repo](https://github.com/NicolasCastroGarcia/mercadopago-workshop)</li>
-  <li> [Presentación](https://docs.google.com/presentation/d/10I_NwrND6BuYxptn2pMnjj72_4Gp3Ke0FRrk0FB25Us/edit?usp=sharing)</li>
+  <li> [Repo](https://drive.google.com/file/d/1uyMo5vaeuWkD5qqHK56W7g8guBsEP-dI/view)</li>
   <li> [Taller](https://youtu.be/-19IDNaRDNo)</li>
 </ol>
 
@@ -44,4 +43,10 @@ Este compilado de repositorios contiene links y recursos útiles a la hora de co
   <li> [Repo](https://github.com/NicolasCastroGarcia/mercadopago-workshop)</li>
   <li> [Presentación](https://docs.google.com/presentation/d/10I_NwrND6BuYxptn2pMnjj72_4Gp3Ke0FRrk0FB25Us/edit?usp=sharing)</li>
   <li> [Taller](https://youtu.be/w1VBrIuSw2o)</li>
+</ol>
+
+## Cómo armar un pitch
+
+<ol>
+   <li> [Taller] (https://www.youtube.com/watch?v=v5DUlPD1C8A)</li>
 </ol>
