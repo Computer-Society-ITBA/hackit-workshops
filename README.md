@@ -33,20 +33,17 @@ Este compilado de repositorios contiene links y recursos útiles a la hora de co
 
 <ol>
   <li> [Repo](https://github.com/extrimian/zkp-bbs-example)</li>
-  <li> [Presentación](https://docs.google.com/presentation/d/10I_NwrND6BuYxptn2pMnjj72_4Gp3Ke0FRrk0FB25Us/edit?usp=sharing)</li>
-  <li> [Taller](https://youtu.be/RkNWHlgoCt0)</li>
+ <li> [Taller](https://youtu.be/RkNWHlgoCt0)</li>
 </ol>
 
 ## Qué es un ZK Rollup y cómo interactuar con uno
 
 <ol>
-  <li> [Repo](https://github.com/NicolasCastroGarcia/mercadopago-workshop)</li>
-  <li> [Presentación](https://docs.google.com/presentation/d/10I_NwrND6BuYxptn2pMnjj72_4Gp3Ke0FRrk0FB25Us/edit?usp=sharing)</li>
-  <li> [Taller](https://youtu.be/w1VBrIuSw2o)</li>
+  <li> [Taller](https://youtu.be/GwpDxbbGaL0)</li>
 </ol>
 
 ## Cómo armar un pitch
 
 <ol>
-   <li> [Taller] (https://www.youtube.com/watch?v=v5DUlPD1C8A)</li>
+   <li> [Taller] (https://www.youtube.com/watch?v=5rMoLISSVac)</li>
 </ol>
