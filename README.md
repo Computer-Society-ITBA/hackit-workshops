@@ -50,6 +50,8 @@ Este compilado de repositorios contiene links y recursos útiles a la hora de co
 ## Cómo conectar tu frontend a Smart Contracts
 <ol>
   <li> [Presentacion] ( https://cloudflare-ipfs.com/ipfs/bafybeiezvydn6c6ib7lj5upjs7ukx6ei4czqaxthpv6wecelbl5tmo27ky) </li>
-  <li> [Repo] (https://cloudflare-ipfs.com/ipfs/bafybeiezvydn6c6ib7lj5upjs7ukx6ei4czqaxthpv6wecelbl5tmo27ky) </li>
+  <li> [Repo Smart Contracts] (https://github.com/francocatena/smart_contracts_example) </li>
+  <li> [Repo dApp] (https://github.com/francocatena/web3_simple_example)</li>
+  <li> [Taller] ( https://www.youtube.com/watch?v=r0xLLaaAM2c&t=6s) </li>
     
 </ol>
